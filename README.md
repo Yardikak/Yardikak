@@ -9,9 +9,7 @@
 </p>
 
 ## 📊 Stats  
-<div align="center">
-
-![Yanwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=apinanyogaratnam&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apinanyogaratnam&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apinanyogaratnam&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apinanyogaratnam&hide_border=true" alt="GitHub Streak">
+</p>
