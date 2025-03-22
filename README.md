@@ -131,7 +131,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/Yardikak"><img alt="Yanwar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yardikak&custom_title=Yanwar%20Ardika's%20Contribution%20Graph&theme=react-dark" /></a>
+	<a href="https://github.com/Yardikak"><img alt="Yanwar Ardika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yardikak&custom_title=Yanwar%20Ardika's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
