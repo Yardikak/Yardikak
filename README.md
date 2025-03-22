@@ -14,11 +14,11 @@
 <hr/>
 <h4 align="center">I am a Student at Telkom University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yardikak&label=Yanwar%20Ardika's%20Profile%20Views%20&color=dc143c&style=plastic" alt="yardikak" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=yardikak&label=Yanwar%20Ardika's%20Profile%20Views%20&color=dc143c&style=plastic" alt="yardikak" /> </h3>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yardika&theme=algolia" alt="yardika" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yardikak&theme=algolia" alt="yardika" /></p>
 
 ## 🛠️ My Skills
 
