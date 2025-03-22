@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yanwar Ardika Cahyani</h1>
+<h1 align="center">Hi , I'm Yanwar Ardika Cahyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="animation.gif" width="500" alt="animation">
@@ -8,7 +8,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave animation">
 </p>
 
-<h1 align="center">Hi , I'm Yanwar Ardika Cahyani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
