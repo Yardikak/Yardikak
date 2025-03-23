@@ -20,7 +20,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yardikak&theme=algolia" alt="yardika" /></p>
 
-## 🛠️ My Skills
+<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="40"> My Skills
 
 ### 👉 Programming languages
 
