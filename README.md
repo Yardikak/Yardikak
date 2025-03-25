@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Always%20learning%20new%20things;Software%20Engineering&center=true&width=500&height=50&font=georgia"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Always%20learning%20new%20things;Software%20Engineering;Database+%7C+APIs+%7C+DevOps;Turning+Coffee+Into+Code&center=true&width=550&height=30">
 </p>
 <hr/>
 <h4 align="center">I am a Student at Telkom University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
