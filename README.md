@@ -18,7 +18,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yardikak&theme=algolia" alt="yardika" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Yardikak&border_radius=5&border=FFFFFF" alt="yardika" /></p>
 
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="40"> My Skills
 
